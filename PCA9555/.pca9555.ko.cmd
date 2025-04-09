@@ -1,0 +1,1 @@
+savedcmd_/home/linux/Desktop/PCA9555/pca9555.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/linux/Desktop/PCA9555/pca9555.ko /home/linux/Desktop/PCA9555/pca9555.o /home/linux/Desktop/PCA9555/pca9555.mod.o
